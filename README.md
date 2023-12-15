@@ -18,7 +18,7 @@ Descrizione:
 1. collego il file js con l'html e controllo il collegamento.
 2. chiedo all'utente il suo nome.
 3. chiedo all'utente il suo cognome.
-4. chiedo all'utente il suo colore preferito. 
+4. chiedo all'utente il suo colore preferito.
 5. inserisco nell'html un id per mostrare a schermo la password.
 6. inserisco il numero '21' da agganciare alla password.
 7. Mostra la password in pagina.
