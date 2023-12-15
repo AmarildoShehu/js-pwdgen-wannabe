@@ -12,3 +12,5 @@ console.log(surname);
 // 4. chiedo all'utente il suo colore preferito.
 let color= prompt('Inserisci il tuo colore preferito');
 console. log(color);
+
+// 5. inserisco nell'html un id per mostrare a schermo la password.
