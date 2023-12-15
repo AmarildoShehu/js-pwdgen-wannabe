@@ -15,7 +15,7 @@ PS: Abbiamo un 21 da agganciare alla fine della password... sarà un numero o un
 
 Descrizione:
 
-1. collego il file js con l'html e    controllo il collegamento.
+1. collego il file js con l'html e controllo il collegamento.
 2. chiedo all'utente il suo nome.
 3. chiedo all'utente il suo cognome.
 4. chiedo all'utente il suo colore preferito. 
