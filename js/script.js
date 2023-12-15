@@ -16,6 +16,6 @@ console. log(color);
 // 5. inserisco nell'html un id per mostrare a schermo la password.
 
 // 6. concateno i valori per creare la password.
-let password = name+surname+color;
+// 7. inserisco il numero '21' da agganciare alla password.
+let password = name+surname+color+21;
 console.log(password);
-
