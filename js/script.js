@@ -19,3 +19,7 @@ console. log(color);
 // 7. inserisco il numero '21' da agganciare alla password.
 let password = name+surname+color+21;
 console.log(password);
+
+// 8. Mostra la password in pagina.
+
+document.getElementById("passtext").innerText = "La tua password è: " + password;
